@@ -1,0 +1,8 @@
+{
+  "name": "AirellApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "da9be84d"
+}
